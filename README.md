@@ -18,3 +18,26 @@ Web: HTML5 Canvas + JavaScript + Serial communication
 Data Rate: 60 FPS ECG visualization
 Accuracy: ±5 BPM (finger placement dependent)
 
+✨ Key Features
+Dual Display System
+
+Local LCD shows current BPM instantly
+
+Web dashboard renders smooth ECG waves
+
+Real-Time Web ECG
+
+No additional hardware needed
+
+Browser auto-connects to Arduino via USB
+
+Smooth 60Hz waveform rendering
+
+Sensor Fusion
+
+Raw pulse data → processed BPM
+
+Peak detection algorithm
+
+Signal filtering for accuracy
+
